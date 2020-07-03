@@ -38,8 +38,8 @@
 #include <time.h>
 #include <math.h>
 
-#include <gl/glut.h>
-#include <gl/glext.h>
+#include <GL/glut.h>
+#include <GL/glext.h>
 
 #ifdef MULTITHREAD_ON
 #include <omp.h>

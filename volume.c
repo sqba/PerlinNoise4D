@@ -43,8 +43,8 @@
 
 #include <GL/glew.h>
 
-#include <gl/glut.h>
-#include <gl/glext.h>
+#include <GL/glut.h>
+#include <GL/glext.h>
 #include "defs.h"
 
 #define GAP(X) ((X)>255 ? 255 : (X)<0 ? 0 : (X))
